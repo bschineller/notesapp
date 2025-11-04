@@ -1,5 +1,5 @@
 # React + Vite
-test change added amplify
+edit test change added amplify
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
